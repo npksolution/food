@@ -2,6 +2,8 @@
 
 1) veg items
 2) non-veg items
+3) garlic chicken 
+4) mutton
 
 chilli chicken added
 
